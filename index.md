@@ -9,6 +9,7 @@
 | Service graph highlights missing nodes and links | Jul 6, 2021 | Service Monitoring | Vittal | System for identifying and visualizing down/inactive components in service graphs |
 
 ## Cloud Infrastructure
+
 | Title | Grant Date | Area | Authors | Summary |
 |-------|------------|------|---------|----------|
 | Network offering in cloud computing environment | Mar 2, 2021 | Cloud Networking | Huang, Chan, Vittal | System for managing multiple network offerings for VMs in cloud zones |
@@ -34,6 +35,7 @@
 | Application change control | Jun 5, 2012 | Change Management | Sharma, Bhargava, Vittal, Eranky | System for monitoring and analyzing configuration changes |
 
 ## Optical Networks
+
 | Title | Grant Date | Area | Authors | Summary |
 |-------|------------|------|---------|----------|
 | System to optimize received power in an optical network | Aug 23, 2005 | Optical Networks | Vittal, Garg | System for optimizing power settings in optical networks |
