@@ -1,4 +1,4 @@
-**Microservices & Service Mesh**
+## Microservices & Service Mesh**
 
 | Title | Grant Date | Area | Authors | Summary |
 |-------|------------|------|---------|----------|
@@ -8,7 +8,7 @@
 | Applying policies to APIs for service graph | Aug 9, 2022 | API Security | Vittal | System for applying granular security policies to microservice APIs based on various criteria |
 | Service graph highlights missing nodes and links | Jul 6, 2021 | Service Monitoring | Vittal | System for identifying and visualizing down/inactive components in service graphs |
 
-**Cloud Infrastructure**
+## Cloud Infrastructure
 | Title | Grant Date | Area | Authors | Summary |
 |-------|------------|------|---------|----------|
 | Network offering in cloud computing environment | Mar 2, 2021 | Cloud Networking | Huang, Chan, Vittal | System for managing multiple network offerings for VMs in cloud zones |
@@ -23,7 +23,8 @@
 | Managing cloud zones | Oct 7, 2014 | Cloud Management | Huang, Vittal, Chan | System for managing private zones in cloud environments |
 | Scalable cloud computing | Feb 11, 2014 | Cloud Infrastructure | Huang, Chan, Liang, Vittal | Framework for scalable multi-tenant cloud infrastructure |
 
-**Configuration Management**
+## Configuration Management
+
 | Title | Grant Date | Area | Authors | Summary |
 |-------|------------|------|---------|----------|
 | Method and apparatus for process enforced configuration management | Jan 9, 2018 | Config Management | Bhargava, Vittal, Sayeram | System for enforcing configuration change processes |
@@ -32,7 +33,7 @@
 | Method and apparatus for process enforced configuration management | Dec 11, 2012 | Config Management | Bhargava, Vittal, Sayeram | System for enforcing configuration change processes |
 | Application change control | Jun 5, 2012 | Change Management | Sharma, Bhargava, Vittal, Eranky | System for monitoring and analyzing configuration changes |
 
-**Optical Networks**
+## Optical Networks
 | Title | Grant Date | Area | Authors | Summary |
 |-------|------------|------|---------|----------|
 | System to optimize received power in an optical network | Aug 23, 2005 | Optical Networks | Vittal, Garg | System for optimizing power settings in optical networks |
