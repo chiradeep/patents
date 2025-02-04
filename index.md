@@ -1,6 +1,7 @@
+**Microservices & Service Mesh**
+
 | Title | Grant Date | Area | Authors | Summary |
 |-------|------------|------|---------|----------|
-**Microservices & Service Mesh**
 | Displaying a service graph in association with a time of a detected anomaly | Feb 6, 2024 | Service Monitoring | Vittal, Chauhan | System for capturing and displaying service graph snapshots around anomaly detection times to help diagnose issues in microservice architectures |
 | Replay a service graph at a point in time to troubleshoot | Oct 25, 2022 | Service Monitoring | Vittal | System for storing and replaying historical snapshots of microservice graphs to help with troubleshooting |
 | Dependency API controlled experiment dashboard | Aug 16, 2022 | Service Testing | White, Edmondson, Vittal | Framework for running validation tests on microservices by injecting synthetic errors and latency |
