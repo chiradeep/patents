@@ -1,4 +1,4 @@
-## Microservices & Service Mesh**
+## Microservices & Service Mesh
 
 | Title | Grant Date | Area | Authors | Summary |
 |-------|------------|------|---------|----------|
